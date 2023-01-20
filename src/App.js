@@ -11,6 +11,11 @@ function App() {
         lffhderhrnhjrgerhgerkgrngerrgegernbgregnegrnegrnernhreherhenernhrehrehrnehrhrenhrenhrnrhehernhehrnnhrh
         rhrehehrehrehrehehrehrehreh frebrbreer r ehrththrh creaetd by indresh
       </div>
+      <div>
+        hii there thisffdbfsjgsbgds what re u dfoinhnfgnfnjgfn   funn 
+      </div>
+     <h1>Hello People</h1>
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
