@@ -15,6 +15,8 @@ function App() {
         hii there thisffdbfsjgsbgds what re u dfoinhnfgnfnjgfn   funn 
       </div>
      <h1>Hello People</h1>
+     <h1>Hello People1</h1>
+     <h1>Hello People2</h1>
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
